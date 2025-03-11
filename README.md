@@ -14,7 +14,7 @@
 - Each item has a title, 
 - Paginated view
 - Like system
-- Main page with sorting system ordering by date added or popularity (i.e. number of likes each article has)\
+- Main page with sorting system ordering by date added or popularity (i.e. number of likes each article has)
 
 ## Role specific features:
 
